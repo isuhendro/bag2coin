@@ -1,7 +1,8 @@
 # Bag2Coin
 
+<p align="center">
 ![animation_lm5q9pik_small](https://github.com/isuhendro/bag2coin/assets/241914/be988f76-9542-4822-80ed-925027eb6e85)
-
+</p>
 
 It's a good thing that we're using bags that can be recycled. However, even with these bags, we still need bags for shopping sometimes. The problem is that a lot of these reusable bags end up piling up at home.
 

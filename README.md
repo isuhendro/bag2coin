@@ -1,10 +1,6 @@
 # Bag2Coin
 
 <p align="center">
-![animation_lm5q9pik_small](https://github.com/isuhendro/bag2coin/assets/241914/be988f76-9542-4822-80ed-925027eb6e85)
-</p>
-
-<p align="center">
   <img src="https://github.com/isuhendro/bag2coin/assets/241914/be988f76-9542-4822-80ed-925027eb6e85" />
 </p>
 

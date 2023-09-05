@@ -1,28 +1,12 @@
 # Bag2Coin
 
-> It's a good thing that we're using bags that can be recycled. However, even with these bags, we still need bags for shopping sometimes. The problem is that a lot of these reusable bags end up piling up at home.
+It's a good thing that we're using bags that can be recycled. However, even with these bags, we still need bags for shopping sometimes. The problem is that a lot of these reusable bags end up piling up at home.
 
-> Unlike plastic bags, which we don't think twice about using as garbage bags, reusable bags often have nice designs and seem fancy. So, we feel bad about throwing them away. This can lead to our homes becoming messy, and this happens to many households. So, while using reusable bags is a good idea, it can also create new problems at home.
+Unlike plastic bags, which we don't think twice about using as garbage bags, reusable bags often have nice designs and seem fancy. So, we feel bad about throwing them away. This can lead to our homes becoming messy, and this happens to many households. So, while using reusable bags is a good idea, it can also create new problems at home.
 
-> The accumulation of recyclable bags at home could have more value when gathered in larger quantities. What if we create a machine that trades recyclable bags for coins? This could make them more beneficial for community groups, schools, retailers, supermarkets, and others.
+The accumulation of recyclable bags at home could have more value when gathered in larger quantities. What if we create a machine that trades recyclable bags for coins? This could make them more beneficial for community groups, schools, retailers, supermarkets, and others.
 
-> Whether or not this is economically feasible remains uncertain. However, the primary goal isn't financial gain; it's about preserving the Earth and living together responsibly, which holds more significance than monetary considerations.
-
-## Open-Source Collaboration:
-
-We welcome open-source developers to join us in enhancing the Outdoor Bag2Coin Recycler (Bulk Storage & Vacuum Compaction Version). Your contributions can drive innovation, improve accessibility, and positively impact the environment.
-
-### Why Collaborate:
-
-**Innovate**: Contribute your skills to make the recycling machine more efficient and eco-friendly.
-
-**Accessibility**: Help keep recycling technology affordable and accessible worldwide.
-
-**Community Impact**: Promote responsible waste disposal and encourage paper bag reuse.
-
-### How to Get Involved:
-
-Contribute by submitting pull requests (to further detail the designs) or suggesting features.
+Whether or not this is economically feasible remains uncertain. However, the primary goal isn't financial gain; it's about preserving the Earth and living together responsibly, which holds more significance than monetary considerations.
 
 ## Key Features and Components:
 
@@ -91,3 +75,19 @@ Maintains a secure database to record transaction data, machine status, and user
 - The water-resistant design allows for outdoor placement, making it suitable for public spaces.
 - Solar panels contribute to sustainability and reduce operating costs.
 - Continued focus on safety, security, and environmental responsibility is maintained throughout the system.
+
+## Open-Source Collaboration:
+
+We welcome open-source developers to join us in enhancing the Outdoor Bag2Coin Recycler (Bulk Storage & Vacuum Compaction Version). Your contributions can drive innovation, improve accessibility, and positively impact the environment.
+
+### Why Collaborate:
+
+**Innovate**: Contribute your skills to make the recycling machine more efficient and eco-friendly.
+
+**Accessibility**: Help keep recycling technology affordable and accessible worldwide.
+
+**Community Impact**: Promote responsible waste disposal and encourage paper bag reuse.
+
+### How to Get Involved:
+
+Contribute by submitting pull requests (to further detail the designs) or suggesting features.

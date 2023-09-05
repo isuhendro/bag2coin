@@ -4,6 +4,10 @@
 ![animation_lm5q9pik_small](https://github.com/isuhendro/bag2coin/assets/241914/be988f76-9542-4822-80ed-925027eb6e85)
 </p>
 
+<p align="center">
+  <img src="https://github.com/isuhendro/bag2coin/assets/241914/be988f76-9542-4822-80ed-925027eb6e85" />
+</p>
+
 It's a good thing that we're using bags that can be recycled. However, even with these bags, we still need bags for shopping sometimes. The problem is that a lot of these reusable bags end up piling up at home.
 
 Unlike plastic bags, which we don't think twice about using as garbage bags, reusable bags often have nice designs and seem fancy. So, we feel bad about throwing them away. This can lead to our homes becoming messy, and this happens to many households. So, while using reusable bags is a good idea, it can also create new problems at home.
